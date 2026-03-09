@@ -8,8 +8,8 @@ Third-year Computer Science student @ **Warsaw University of Technology** 🎓, 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,java,c,r,pytorch, tensorflow, spring, flask" /><br>
-    <img src="https://skillicons.dev/icons?i=postgres,git,docker,ubuntu, cmake, arduino" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,java,c,r,pytorch,tensorflow,spring,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=postgres,git,docker,ubuntu,cmake,arduino" />
   </a>
 </p>  
 
