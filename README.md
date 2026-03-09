@@ -8,8 +8,8 @@ Third-year Computer Science student @ **Warsaw University of Technology** 🎓, 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,java,c,r,pytorch,tensorflow,spring,flask" /><br>
-    <img src="https://skillicons.dev/icons?i=postgres,git,docker,ubuntu,cmake,arduino" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,java,c,r,pytorch,tensorflow,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=spring,postgres,git,docker,ubuntu,cmake,arduino" />
   </a>
 </p>  
 
@@ -24,4 +24,4 @@ Third-year Computer Science student @ **Warsaw University of Technology** 🎓, 
 
 ## 📫 Contact
 
-- LinkedIn: [https://www.linkedin.com/in/jakub-bagi%C5%84ski-89b2063b4/]
+- LinkedIn: [Jakub Bagiński](https://www.linkedin.com/in/jakub-bagi%C5%84ski-89b2063b4/)
